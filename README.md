@@ -1,4 +1,4 @@
-<img width="1000px" height="500px" src="https://contentstatic.techgig.com/photo/81196000/5-reasons-for-aspirants-to-build-a-career-as-front-end-developer.jpg?169077" alt="">
+<img width="1000px" height="400px" src="https://contentstatic.techgig.com/photo/81196000/5-reasons-for-aspirants-to-build-a-career-as-front-end-developer.jpg?169077" alt="">
     <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
