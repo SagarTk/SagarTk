@@ -1,5 +1,4 @@
-<img width="1000px" height="400px" src="https://contentstatic.techgig.com/photo/81196000/5-reasons-for-aspirants-to-build-a-career-as-front-end-developer.jpg?169077" alt="">
-    <h1 align="center">Hi 👋, I'm Sagar</h1>
+<h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagartk&label=Profile%20views&color=0e75b6&style=flat" alt="sagartk" /> </p>
