@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagartk&label=Profile%20views&color=0e75b6&style=flat" alt="sagartk" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React.js**
 
 - ⚡ **In my free time I solve problems on Leetcode.**
 
