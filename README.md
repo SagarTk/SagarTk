@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/sagar-thakur1111a7" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="sagar-thakur1111a7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sagar_9627" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagar_9627" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rowdy_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rowdy_coder" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sagar1_2_3" target="blank"><img align="center" src="file:///C:/Users/Lenovo/Downloads/leetcode.svg" alt="sagar1_2_3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sagar1_2_3" target="blank"><img align="center" src="[file:///C:/Users/Lenovo/Downloads/leetcode.svg](https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png)" alt="sagar1_2_3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
