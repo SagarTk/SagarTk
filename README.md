@@ -2,7 +2,6 @@
 🌱I’m currently learning ReactJS.<br>⚡ In my free time I solve problems on Leetcode.<br>📫 How to reach me sagarthakur962795@gmail.com.<br>⚡ Fun fact I love to watch Animes.<br>💬 Ask me about Javascript.<br>
 
 [![An image of @sagartk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sagartk)](https://holopin.io/@sagartk)
-Foot
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-thakur1111a7) 
